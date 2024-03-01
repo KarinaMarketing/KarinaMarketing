@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on John Deere;
 - 📫 How to reach me instagram @karinamarketing
 - 😄 Pronouns: She;
-- ⚡ Fun fact: Discovery myself dev's world after my 38's yers old and became mum;
+- ⚡ Fun fact: Discovery myself dev's world after my 38's yers old and of become mum;
 
 <!---
 KarinaMarketing/KarinaMarketing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
