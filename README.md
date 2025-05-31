@@ -4,7 +4,7 @@
 - 💞️ I’m looking for a attentive and patient developer to teach me.;
 - 📫 How to reach me instagram @karinamarketing
 - 😄 Pronouns: She;
-- ⚡ Fun fact: Discovery myself after my 38's yers old and becoming a mother dev's;
+- ⚡ Fun fact: I discovered myself after becoming a mother, so I started to take an interest in developing programs to make the world better for my daughter.
 
 <!---
 KarinaMarketing/KarinaMarketing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
