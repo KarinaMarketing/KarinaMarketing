@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @KarinaMarketing;
 - 👀 I’m interested in dev, social media and web page construction;
 - 🌱 I’m currently learning Systems for internet at IFRS/PoA;
-- 💞️ I’m looking to collaborate on John Deere;
+- 💞️ I’m looking for a attentive and patient developer to teach me.;
 - 📫 How to reach me instagram @karinamarketing
 - 😄 Pronouns: She;
-- ⚡ Fun fact: Discovery myself dev's world after my 38's yers old and becoming a mother;
+- ⚡ Fun fact: Discovery myself after my 38's yers old and becoming a mother dev's world;
 
 <!---
 KarinaMarketing/KarinaMarketing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
